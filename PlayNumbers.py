@@ -1,7 +1,7 @@
 import sys
 
 num1 = input('Enter first number:')
-num2 = input('Enter first number:')
+num2 = input('Enter second number:')
 
 #Add two number by programmer1
 sum = int(num1) + int(num2)
